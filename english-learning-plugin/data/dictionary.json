@@ -1,0 +1,114 @@
+{
+  "words": {
+    "hello": {
+      "word": "hello",
+      "meaning": "سلام، درود",
+      "example": "Hello, how are you?",
+      "pronunciation": "/həˈloʊ/",
+      "detailed": "یک کلمه بسیار رایج برای احوال‌پرسی. استفاده در موقعیت‌های رسمی و غیررسمی.",
+      "synonyms": ["greeting", "hi", "welcome"],
+      "box": 0,
+      "nextReview": 0,
+      "created": 1704067200000
+    },
+    "world": {
+      "word": "world",
+      "meaning": "جهان، دنیا، گیتی",
+      "example": "Traveling around the world is my dream.",
+      "pronunciation": "/wɜːrld/",
+      "detailed": "اشاره به کره زمین و تمام موجودات و چیزهای روی آن. همچنین می‌تواند به حوزه خاصی از فعالیت اشاره کند.",
+      "synonyms": ["earth", "globe", "universe"],
+      "box": 0,
+      "nextReview": 0,
+      "created": 1704067200000
+    },
+    "learn": {
+      "word": "learn",
+      "meaning": "یاد گرفتن، آموختن، فراگرفتن",
+      "example": "I want to learn English.",
+      "pronunciation": "/lɜːrn/",
+      "detailed": "فرآیند کسب دانش یا مهارت جدید از طریق مطالعه، تجربه یا آموزش. یکی از افعال کلیدی در آموزش.",
+      "synonyms": ["study", "acquire", "master"],
+      "box": 0,
+      "nextReview": 0,
+      "created": 1704067200000
+    },
+    "language": {
+      "word": "language",
+      "meaning": "زبان، لغات، اصطلاحات",
+      "example": "English is a global language.",
+      "pronunciation": "/ˈlæŋɡwɪdʒ/",
+      "detailed": "سیستم ارتباطی شامل کلمات، گرامر و تلفظ که توسط یک جامعه استفاده می‌شود. انسان‌ها دارای هزاران زبان مختلف هستند.",
+      "synonyms": ["tongue", "speech", "dialect"],
+      "box": 0,
+      "nextReview": 0,
+      "created": 1704067200000
+    },
+    "book": {
+      "word": "book",
+      "meaning": "کتاب، جلد، دفتر",
+      "example": "I read a book every week.",
+      "pronunciation": "/bʊk/",
+      "detailed": "مجموعه‌ای از صفحات چاپی یا دیجیتال که شامل متن، تصاویر یا اطلاعات است. منبع اصلی دانش و سرگرمی.",
+      "synonyms": ["volume", "publication", "text"],
+      "box": 0,
+      "nextReview": 0,
+      "created": 1704067200000
+    },
+    "time": {
+      "word": "time",
+      "meaning": "زمان، وقت، دفعه",
+      "example": "What time is it?",
+      "pronunciation": "/taɪm/",
+      "detailed": "مفهوم انتزاعی که توالی رویدادها را نشان می‌دهد. همچنین به لحظه خاصی از روز یا دوره‌ای از تاریخ اشاره دارد.",
+      "synonyms": ["period", "moment", "duration"],
+      "box": 0,
+      "nextReview": 0,
+      "created": 1704067200000
+    },
+    "water": {
+      "word": "water",
+      "meaning": "آب، مایع حیات",
+      "example": "Please give me some water.",
+      "pronunciation": "/ˈwɔːtər/",
+      "detailed": "مایع شفاف و بی‌رنگ که برای زندگی تمام موجودات زنده ضروری است. ترکیب شیمیایی H2O دارد.",
+      "synonyms": ["H2O", "liquid", "aqua"],
+      "box": 0,
+      "nextReview": 0,
+      "created": 1704067200000
+    },
+    "friend": {
+      "word": "friend",
+      "meaning": "دوست، یار، رفیق",
+      "example": "She is my best friend.",
+      "pronunciation": "/frend/",
+      "detailed": "شخصی که با او رابطه صمیمی و دوستانه دارید. دوستی بر اساس اعتماد، احترام و علاقه متقابل شکل می‌گیرد.",
+      "synonyms": ["companion", "pal", "buddy"],
+      "box": 0,
+      "nextReview": 0,
+      "created": 1704067200000
+    },
+    "happy": {
+      "word": "happy",
+      "meaning": "خوشحال، شاد، خرسند",
+      "example": "I am very happy today.",
+      "pronunciation": "/ˈhæpi/",
+      "detailed": "احساس رضایت، لذت و خوشحالی. حالتی عاطفی که معمولاً ناشی از رویدادهای مثبت یا موفقیت‌هاست.",
+      "synonyms": ["joyful", "cheerful", "content"],
+      "box": 0,
+      "nextReview": 0,
+      "created": 1704067200000
+    },
+    "love": {
+      "word": "love",
+      "meaning": "عشق، محبت، دوست داشتن",
+      "example": "I love my family.",
+      "pronunciation": "/lʌv/",
+      "detailed": "احساس عمیق علاقه و دلبستگی به کسی یا چیزی. قوی‌ترین احساس انسانی که می‌تواند عاشقانه، خانوادگی یا دوستانه باشد.",
+      "synonyms": ["affection", "devotion", "adore"],
+      "box": 0,
+      "nextReview": 0,
+      "created": 1704067200000
+    }
+  }
+}
