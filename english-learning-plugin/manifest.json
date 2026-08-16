@@ -2,8 +2,8 @@
   "id": "english-learning",
   "name": "English Learning",
   "version": "1.0.0",
-  "minAppVersion": "1.7.0",
-  "description": "Offline-first English ⇄ Persian learning with Excel import, detailed dictionary, random review, and in-text highlighting.",
-  "author": "Your Name",
+  "minAppVersion": "0.15.0",
+  "description": "Learn English with spaced repetition, Excel import, and detailed offline dictionary (EN-FA).",
+  "author": "AI Assistant",
   "isDesktopOnly": false
 }
